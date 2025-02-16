@@ -1,10 +1,3 @@
-/**
- * Wilson Lin
- * 115091711
- * wilson.lin.2@stonybrook.edu
- * Hw 3
- * CSE214.R04 Summer 2024
- */
 
 /**
  * The <code>Elevator</code> class is used for the creation of an elevator
